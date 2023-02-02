@@ -9,3 +9,8 @@ html, body {
   margin-right: auto;
   width: 50%;
 }
+
+@font-face {
+  font-family: hack;
+  src: font/hack.ttf;
+}
