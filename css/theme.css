@@ -12,5 +12,17 @@ html, body {
 
 @font-face {
   font-family: hack;
-  src: font/hack.ttf;
+  src: ../font/hack.ttf;
+}
+
+@font-face {
+  font-family: hackBold;
+  src: ../font/hack-bold.ttf;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: hackItalic;
+  src: ../font/hack-italic.ttf;
+  font-weight: italic;
 }
