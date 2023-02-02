@@ -20,6 +20,6 @@ my name is Beau, i am a male from the United States, and i like:
 - slock for my lock screen
 - ranger for a file manager
 - ncmpcpp for music
-my dotfiles can be found [here] (https://github.com/ixp123/dotfiles)
+my dotfiles can be found <a href="https://github.com/ixp123/dotfiles">here</a>
 
 *as above, so below*
