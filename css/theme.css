@@ -3,6 +3,10 @@ html, body {
   color: #ffffff;  
 }
 
+div {
+  margin: 25px 50px 75px 100px;
+}
+
 .center {
   display: block;
   margin-left: auto;
